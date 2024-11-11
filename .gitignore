@@ -1,12 +1,6 @@
 # .NET Core
 **/bin/
 **/obj/
-**/appsettings.Development.json
-**/appsettings.json
-**/appsettings.Local.json
-**/appsettings.Test.json
-**/appsettings.Staging.json
-**/appsettings.Production.json
 
 # Visual Studio
 .vs/
